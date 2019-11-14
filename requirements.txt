@@ -9,5 +9,4 @@ gensim
 gensim-sum-ext
 spacy-nightly
 wordnet
-pros_cons
 reuters
