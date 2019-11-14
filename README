@@ -18,3 +18,4 @@ pip install nltk
 pip install bs4
 pip install sumy
 python -m nltk.downloader stopwords
+python -m nltk.downloader punkt
