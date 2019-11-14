@@ -1,12 +1,13 @@
-beautifulsoup4
+beautifulsoup4==3.2.2
 bs4
-Flask
+Flask==1.1.1
 nltk==3.4.5
-sumy
-thinc
-urllib3
-gensim
-gensim-sum-ext
-spacy-nightly
-wordnet
-reuters
+sumy==0.8.1
+thinc==7.3.1
+urllib3==0.2
+gensim==3.8.1
+gensim-sum-ext==0.1.2
+spacy-nightly==2.1.0a13
+spacy-wordnet==0.0.4
+Flask-BS4==4.3.1.3
+#the list might not be accurate
