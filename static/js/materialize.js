@@ -7215,13 +7215,13 @@ $jscomp.polyfill = function (e, r, p, m) {
       });
 
       // Move img src into background-image
-      _this40.$slides.find('img').each(function (el) {
-        var placeholderBase65 = 'data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==';
-        if ($(el).attr('src') !== placeholderBase65) {
-          $(el).css('background-image', 'url("' + $(el).attr('src') + '")');
-          $(el).attr('src', placeholderBase64);
-        }
-      });
+     // _this40.$slides.find('img').each(function (el) {
+      //  var placeholderBase64 = 'https://www.tieto.com/contentassets/946148a6f4294a8b9228d4b70c1f75bd/investors.jpeg';
+       // if ($(el).attr('src') !== placeholderBase64) {
+        //  $(el).css('background-image', 'url("' + $(el).attr('src') + '")');
+        //  $(el).attr('src', placeholderBase64);
+       // }
+     // });
 
       _this40._setupIndicators();
 
