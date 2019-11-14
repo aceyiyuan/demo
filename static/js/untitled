@@ -1,8 +1,0 @@
-
-
-python run_summarization_finetuning.py \
-    --output_dir=output \
-    --model_type=bert2bert \
-    --model_name_or_path=bert2bert \
-    --do_train \
-    --data_path= /Users/yiyuan/desktop/transformers-master/transformers/data \
