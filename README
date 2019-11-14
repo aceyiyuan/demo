@@ -8,3 +8,12 @@ under demo directory demo %
 python app.py run
 
 Running on http://127.0.0.1:5000/
+
+#Usuage (install dependencies)
+pip install flask
+pip install flask_bootstrap
+pip install spacy
+python -m spacy download en
+pip install nltk
+pip install bs4
+pip install sumy
