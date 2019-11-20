@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5ce89334-d636-4e97-83c1-b4e2139659b8/deploy-status)](https://app.netlify.com/sites/textsum/deploys)
+
 #activate virtual environment
 
 source venv/bin/activate
